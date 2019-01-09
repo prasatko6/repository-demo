@@ -1,1 +1,3 @@
-SELECT * FROM my_table;
+SELECT * FROM my_table
+
+where somechange = 'ohyes';
